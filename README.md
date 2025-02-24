@@ -29,6 +29,7 @@
    - **Kiwi Browser:** Open developer tools from the browser settings.
 4. *(Optional)* Adjust logging settings to show only "logs" or "info."
 5. **Paste & Run Script**:
+   - Copy all the code in **SENTINEL_V1.0.js**.
    - Type `allow pasting` (without quotes) and press Enter before pasting the script.
    - On mobile, paste the script in the console and switch back to the main tab.
 6. **Follow the prompts** until the script execution starts.
