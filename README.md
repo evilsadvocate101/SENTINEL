@@ -17,7 +17,7 @@ Enter: `swordnub`
 ## **Setup Guide** (Important)
 ### **PC Users**
 - Use **Firefox Developer Edition** (prevents tab throttling).
-  [Firefox Developer Edition]([https://top.gg/bot/429457053791158281]() ](https://www.mozilla.org/en-US/firefox/developer/) 
+  [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) 
 
 - Enable **hardware acceleration** for smooth performance.
 
