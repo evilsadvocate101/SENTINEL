@@ -1,6 +1,10 @@
 # **Getting Started**
 ---
 
+## Script Password
+- When running the script for the first time, you will be prompted for a password.
+  Enter: `swordnub`
+
 ## **Requirements**
 - **Admin privileges**.
 - **Private server & channel**.
@@ -38,9 +42,6 @@
 ---
 
 ## **Additional Information**
-- **Password**: When running the script for the first time, you will be prompted for a password. Enter:  
-  `swordnub`
-
 - **Load Settings**: You can customize the settings based on your preferences. If you're unsure, follow the default settings:  
   Default setting: `"neko purge 1000;kraken-tempura;retainer:yes"`  
   Format: `"x1;x2;x3:yes"`
