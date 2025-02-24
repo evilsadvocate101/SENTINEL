@@ -2,8 +2,8 @@
 ---
 
 ## Script Password
-- When running the script for the first time, you will be prompted for a password.
-  Enter: `swordnub`
+When running the script for the first time, you will be prompted for a password.
+Enter: `swordnub`
 
 ## **Requirements**
 - **Admin privileges**.
