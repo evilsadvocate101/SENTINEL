@@ -9,7 +9,8 @@ Enter: `swordnub`
 - **Admin privileges**.
 - **Private server & channel**.
 - **Isekaid bot**.
-- **Message-purging bot** (Nekotina). You can invite Nekotina using the link below:  
+- **Message-purging bot** (Nekotina).
+  You can invite Nekotina using the link below:  
   [Nekotina](https://top.gg/bot/429457053791158281)  
 - **One-hit kill character** (for mapping script).
 
