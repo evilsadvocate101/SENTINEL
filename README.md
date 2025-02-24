@@ -17,10 +17,13 @@ Enter: `swordnub`
 ## **Setup Guide** (Important)
 ### **PC Users**
 - Use **Firefox Developer Edition** (prevents tab throttling).
+  [Firefox Developer Edition]([https://top.gg/bot/429457053791158281]() ](https://www.mozilla.org/en-US/firefox/developer/) 
+
 - Enable **hardware acceleration** for smooth performance.
 
 ### **Mobile Users** (Android only)
 - Use **Kiwi Browser**.
+PS: Kiwi Browser has already been removed from the Play Store, but you can find the APK file on APKPure or other mirror sites. If you have another mobile browser option, that’s fine too—as long as it has a developer console.
 - Use **SwiftKey Keyboard** (Google Keyboard has paste limits).
 - Keep the script running by minimizing the browser or using split-screen mode.
 
