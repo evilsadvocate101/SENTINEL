@@ -9,22 +9,19 @@ Enter: `swordnub`
 - **Admin privileges**.
 - **Private server & channel**.
 - **Isekaid bot**.
-- **Message-purging bot** (Nekotina).
-  You can invite Nekotina using the link below:  
-  [Nekotina](https://top.gg/bot/429457053791158281)  
+- **Message-purging bot** [Nekotina](https://top.gg/bot/429457053791158281).
 - **One-hit kill character** (for mapping script).
 
 ## **Setup Guide** (Important)
 ### **PC Users**
-- Use **Firefox Developer Edition** (prevents tab throttling).
-  [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) 
-
+- Use [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) 
+ (prevents tab throttling).
 - Enable **hardware acceleration** for smooth performance.
 
 ### **Mobile Users** (Android only)
-- Use **Kiwi Browser**.
+- Use [**Kiwi Browser**](https://apkpure.com/kiwi-browser-fast-quiet/com.kiwibrowser.browser)
 PS: Kiwi Browser has already been removed from the Play Store, but you can find the APK file on APKPure or other mirror sites. If you have another mobile browser option, that’s fine too—as long as it has a developer console.
-- Use **SwiftKey Keyboard** (Google Keyboard has paste limits).
+- Use [**SwiftKey Keyboard**](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) (Google Keyboard has paste limits).
 - Keep the script running by minimizing the browser or using split-screen mode.
 
 ---
