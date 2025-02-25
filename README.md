@@ -11,7 +11,7 @@ Enter: `swordnub`
 ## **Setup Guide** (Important)
 ### **PC Users**
 - Use [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) 
- (prevents tab throttling).
+ (prevents throttling). You can use Chrome, Opera, or other browsers, but if you switch tabs, lock your PC, or minimize the browser, the script won’t work. That’s why you should use Firefox Developer Edition—by default, there’s no throttling.
 - Enable **hardware acceleration** for smooth performance.
 
 ### **Mobile Users** (Android only)
@@ -31,7 +31,7 @@ PS: Kiwi Browser has already been removed from the Play Store, but you can find 
 4. *(Optional)* Adjust logging settings to show only "logs" or "info."
 5. **Paste & Run Script**:
    - Copy all the code in **SENTINEL_V1.0.js**.
-   - Type `allow pasting` (without quotes) and press Enter before pasting the script.
+   - On PC, type `allow pasting` and press Enter before pasting the script, then paste the script.
    - On mobile, paste the script in the console and switch back to the main tab.
 6. **Follow the prompts** until the script execution starts.
 7. **If errors occur**, refresh the page and retry from Step 2.
