@@ -52,8 +52,8 @@ PS: Kiwi Browser has already been archived from the Play Store, but you can find
 
 ## **Available Scripts**
 ### **1️⃣ SENTINEL**
-- **Main Feature**: Automatically map, proven to run **24/7**.
-- **Side Features**: Auto-retainer hiring, auto-equipment selling, auto-food consumption.
+- ✅ **Main Feature**: Automatically map, proven to run **24/7**.
+- ✅ **Side Features**: Auto-retainer hiring, auto-equipment selling, auto-food consumption.
 - ✅ **Anti-verify** – Automatically pauses if the bot requests verification (I know the developer has removed verification on mapping, but this feature is still there just in case).
 - ✅ **Built-in security** – Prevents detection and includes error handling.  
 - ✅ **Play and Pause Button** – Easily control the script.  
