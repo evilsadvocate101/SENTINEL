@@ -1,4 +1,4 @@
-# Script Password
+# SCRIPT PASSWORD
 When running the script, you will be prompted for a password.
 Enter: `swordnub`
 
