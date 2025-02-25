@@ -16,7 +16,7 @@ Enter: `swordnub`
 
 ### **Mobile Users** (Android only)
 - Use [**Kiwi Browser**](https://apkpure.com/kiwi-browser-fast-quiet/com.kiwibrowser.browser)
-PS: Kiwi Browser has already been removed from the Play Store, but you can find the APK file on APKPure or other mirror sites. If you have another mobile browser option, that’s fine too—as long as it has a developer console.
+PS: Kiwi Browser has already been archived from the Play Store, but you can find the APK file on APKPure or other mirror sites. If you have another mobile browser option, that’s fine too—as long as it has a developer console.
 - Use [**SwiftKey Keyboard**](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) (Google Keyboard has paste limits).
 - Keep the script running by minimizing the browser or using split-screen mode.
 
