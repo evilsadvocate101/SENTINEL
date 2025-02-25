@@ -1,14 +1,10 @@
-# **Getting Started**
----
-
-## Script Password
-When running the script for the first time, you will be prompted for a password.
+# Script Password
+When running the script, you will be prompted for a password.
 Enter: `swordnub`
 
 ## **Requirements**
-- **Admin privileges**.
-- **Private server & channel**.
-- **Isekaid bot**.
+- **Administrator privileges, private server & channel**.
+- [**Isekaid bot**](https://top.gg/bot/989440183428599849).
 - **Message-purging bot** [Nekotina](https://top.gg/bot/429457053791158281).
 - **One-hit kill character** (for mapping script).
 
@@ -87,4 +83,3 @@ By using this script, **you accept full responsibility** for any consequences (e
 
 ## **License**
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
